@@ -10,7 +10,7 @@
 ---
 
 ## 🔗 Quick Links
-* **🌐 Live Web App:** [Play with LumaCXR on Streamlit]([INSERT_STREAMLIT_APP_LINK_HERE])
+* **🌐 Live Web App:** [Play with LumaCXR on Streamlit](https://lumacxr.streamlit.app/?embed_options=dark_theme)
 * **📓 Kaggle Notebook:** [View Model Training & Pipeline](https://www.kaggle.com/code/youssefamgadelkhatib/lumacxr)
 * **🗄️ Kaggle Dataset:** [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
